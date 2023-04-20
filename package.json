@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/pelan23/cypress-training#readme",
   "devDependencies": {
-    "cypress": "^12.8.1"
+    "cypress": "^12.8.1",
+    "typescript": "^5.0.3"
   }
 }
